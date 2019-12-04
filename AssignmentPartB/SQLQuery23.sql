@@ -1,0 +1,2 @@
+﻿select * from student A inner join (SELECT STUD_ID,COUNT(*) AS NoOfCourses FROM STUDENTPERCOURSE GROUP BY STUD_ID
+HAVING COUNT(*)>1 )  B ON A.STUDENT_ID=B.STUD_ID;

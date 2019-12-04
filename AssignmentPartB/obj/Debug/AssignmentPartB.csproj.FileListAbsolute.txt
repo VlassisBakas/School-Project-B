@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\obj\Debug\AssignmentPartB.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\obj\Debug\AssignmentPartB.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\bin\Debug\AssignmentPartB.exe.config
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\bin\Debug\AssignmentPartB.exe
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\bin\Debug\AssignmentPartB.pdb
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\obj\Debug\AssignmentPartB.exe
+C:\Users\Acer\source\repos\AssignmentPartB\AssignmentPartB\obj\Debug\AssignmentPartB.pdb
